@@ -1,6 +1,6 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "GitActionExample"
+  default = "git-hub-actions-example"
 }
 
 variable "application_name" {
